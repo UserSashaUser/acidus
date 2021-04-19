@@ -1,0 +1,172 @@
+.container{
+
+    max-width: 970px;
+    width: 100%;
+    height: 700px;
+    margin: 0 auto;
+}
+.class1{
+
+    background-color: #000;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.class2{
+
+    background-color: red;
+    width: 100%;
+    height: 50%;
+    display: flex;
+    flex-direction: row;
+
+}
+.class5{
+
+    display: flex;
+    flex-direction: column;
+    background-color: #69da7e;
+    width: 33%;
+    height: 100%;
+}
+.class__h1{
+
+    color:aliceblue;
+    display: flex;
+    flex-direction:row;
+    margin-left: 20px;
+
+ 
+    
+    font-size: 25px;
+    font-weight: 600;
+    font-family: Hind,sans-serif;
+    
+}
+.Par__1{
+
+    display: flex;
+    flex-direction: row;
+    margin-left: 20px;
+    color:antiquewhite;
+    font-size: 15px;
+    
+    height: 84px;
+    width: 293px;
+}
+.Par__2  {
+
+    font-size: 13px;
+    color:beige;
+    
+    margin-left: 30px;
+}
+
+.class6{
+
+ 
+    display: flex;
+    flex-direction: column;
+    background-color: #0e1e0e;
+    width: 33%;
+    height: 100%;
+}
+.class7{
+
+    display: flex;
+    flex-direction: column;
+    background-color: orange;
+    width: 33%;
+    height: 100%;
+}
+
+
+
+.class3{
+
+    
+    background-color: green;
+    width: 100%;;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+
+}  
+
+
+.class8{
+ display:flex;
+ flex-direction:column;
+ background-color: #14210e;
+ width: 60%;
+ height: 100%;
+
+}
+.class__h1__2{
+    color:aliceblue;
+    display: flex;
+    flex-direction:column;
+     font-size: 25px;
+    font-weight: 600;
+    font-family: Hind,sans-serif;
+    margin-left:30px;
+    
+
+}
+.par__1__2{
+ 
+    display: flex;
+    flex-direction: column;
+
+    color:antiquewhite;
+    font-size: 15px;
+    height: 63px;
+    width: 455px; 
+    align-items: flex-start;  
+    margin-left: 30px;
+}
+
+.class4{
+    width: 100%;
+    height: 50%;
+    background-color: orange;
+    display: flex;
+    flex-direction: row;
+}
+.class9{
+    width: 20%;
+    height: 100%;
+    background-color: #394036;
+    display: flex;
+    flex-direction: column;
+    
+}
+.class10{
+    width: 20%;
+    height: 100%;
+    background-color: #3a170f;
+
+    display: flex;
+    flex-direction: column;  
+}
+.class11{
+    width: 20%;
+    height: 100%;
+    background-color: #093c9b;
+    display: flex;
+    flex-direction: column;
+}
+.class12{
+    width: 20%;
+    height: 100%;
+    background-color: #de5a36;
+    display: flex;
+    flex-direction: column;
+}.class13{
+    width: 20%;
+    height: 100%;
+    background-color: #116b0f;
+    display: flex;
+    flex-direction: column;
+}
