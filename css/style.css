@@ -1,0 +1,56 @@
+.container__2{
+
+    max-width: 1100px;
+    width: 100%;
+    margin: 0 auto;
+}
+.div__class1{
+
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+
+}
+.div__class__h1{
+    font-size: 30px;
+    font-family: Hind,sans-serif;
+    color:#515769;
+}
+.div__class__p1{
+    font-size: 15px;
+    font-family: Hind,sans-serif;
+    color:#a6a7aa;
+
+
+}
+.div__class__p2{
+  
+    font-size: 15px;
+    font-family: Hind,sans-serif;
+    color:#a6a7aa;
+
+}
+.div__class__h2{
+
+  font-size: 30px;
+
+  font-family: Hind,sans-serif;
+  color:#a6a7aa;
+
+
+}
+.div__class3{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 200px;
+
+}
+.div__class4{
+    font-size: 15px;
+    font-family: Hind,sans-serif;
+    color:#a6a7aa;
+
+}
