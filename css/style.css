@@ -1,4 +1,4 @@
-body{
+/*body{
 
     background-color: #fff;
     margin: 0;
@@ -84,4 +84,146 @@ a{
 }
 
 }
-© 2021 GitHub, Inc.
+© 2021 GitHub, Inc.*/
+
+   .container{
+
+    max-width: 1100px;
+    width: 100%;
+    margin: 0 auto;
+    height: 700px;
+    
+
+    
+}.class__item__1{
+    width: 100%;
+    height: 100%;
+    
+    display: flex;
+    flex-direction: column;
+   
+    
+
+}
+
+.logo{
+    height: 20px;
+    margin-top: 25px;
+    margin-left: 30px;
+    
+   
+    
+   
+   }
+.class__item__2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+    
+
+}
+.class__item__3{
+ display: flex;
+
+ flex-direction: row;
+ justify-content: space-between;
+}
+.class__item__4{
+display: flex;
+flex-direction: row;
+
+
+
+}
+.nav{
+
+    display: flex;
+    flex-direction: row;
+    width: 300px;
+    justify-content:space-between;
+    padding: 15px;
+    font-size: 13px;
+    font-weight: 600;
+    font-family: Hind,sans-serif;
+    
+}
+ul li {
+    display: inline-block;
+    
+    list-style: none;
+
+}
+ul li a{
+
+    text-decoration: none;
+    padding: 10% 10%;
+    color:gray;
+}
+.class__item__5{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+
+    
+}
+
+
+.class__item__6{
+    display: flex;
+    flex-direction: row;
+
+
+
+   
+    
+
+    
+}
+.img1{
+    margin-top: 120px;
+    display: flex;
+    
+
+
+
+}
+.img2{
+    margin-top: 120px;
+    display: flex;
+    flex-direction: column;
+    
+    
+
+
+}
+.img3{
+    margin-top: 120px;
+    display: flex;
+    flex-direction: column;
+    
+
+}
+
+.class__item__9{
+    display: flex;
+    flex-direction: row;
+    
+    
+    }
+.class__item__7{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+.class__item__8{
+    display: flex;
+    flex-direction: row;
+  justify-content: space-between;
+    
+    
+    
+    }
